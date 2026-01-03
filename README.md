@@ -4,6 +4,12 @@ A comprehensive on-page SEO analysis tool that helps you audit and optimize your
 
 ![On-Page SEO Dashboard](docs/screenshot.png)
 
+## Video Tutorial
+
+[![Watch the tutorial](https://img.youtube.com/vi/jRSx4q8AghU/maxresdefault.jpg)](https://youtu.be/jRSx4q8AghU)
+
+**[Watch the full tutorial on YouTube](https://youtu.be/jRSx4q8AghU)**
+
 ## Features
 
 - **Page Discovery**: Automatically discover pages on your website using Firecrawl
@@ -41,7 +47,7 @@ A comprehensive on-page SEO analysis tool that helps you audit and optimize your
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/on-page-seo.git
+git clone https://github.com/AgriciDaniel/on-page-seo.git
 cd on-page-seo
 ```
 
