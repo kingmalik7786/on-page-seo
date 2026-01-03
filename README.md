@@ -2,6 +2,8 @@
 
 A comprehensive on-page SEO analysis tool that helps you audit and optimize your website's SEO performance. Analyze up to 500 pages at once with detailed insights on 74 SEO metrics.
 
+![On-Page SEO Dashboard](docs/screenshot.png)
+
 ## Features
 
 - **Page Discovery**: Automatically discover pages on your website using Firecrawl
